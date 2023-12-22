@@ -6,7 +6,7 @@ export default function App() {
     <SafeAreaView>
 
     <View style={styles.container}>
-      <Text>Hello World! I hate JS/TS with a passion</Text>
+      <Text>Hello World! I hate JS/TS with a passion, test2</Text>
       <StatusBar style="auto" />
     </View>
     </SafeAreaView>
